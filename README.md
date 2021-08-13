@@ -12,3 +12,5 @@ Run Unity(PC build) in C# Winform environment
 5) move unity build to solution's build directory(Debug/Release)
 
 End.
+
+본 repo는 참고용 테스트 코드를 올려두는 용도로 코드 업데이트는 거의 없을 것임.
